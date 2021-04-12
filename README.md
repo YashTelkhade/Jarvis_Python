@@ -1,7 +1,8 @@
 # Jarvis_Python
 Your own Jarvis in python.
 
-Step 1 : - pip install -r requirements.txt
+Step 1 : - 
+    1. pip install -r requirements.txt
 
 Step 2 : -
     Just run the code and ask jarvis -
